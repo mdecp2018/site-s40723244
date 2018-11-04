@@ -251,7 +251,7 @@ make.start()
 <t tx="leo.20180827201621.5">&lt;head&gt;
     &lt;meta charset="utf-8"&gt;
 &lt;title&gt;
-2018 Fall 分組網際簡報
+40723244 分組報告簡報
 &lt;/title&gt;
     &lt;meta name="description" content="A framework for easily creating beautiful presentations using HTML"&gt;
     &lt;meta name="author" content="Hakim El Hattab"&gt;
@@ -335,13 +335,17 @@ make.start()
     &lt;script type="text/template"&gt;
 @others
     &lt;/script&gt;
-&lt;/section&gt;</t>
+&lt;/section&gt;
+
+</t>
 <t tx="leo.20181029145601.1"># 課程所用的網頁
 
 * [Github](https://github.com) 網頁
 
 * [CMSimfly](https://github.com/chiamingyen/cmsimfly) 操作
 
-* [Onshape](https://www.onshape.com/) 操作</t>
+* [Onshape](https://www.onshape.com/) 操作
+
+</t>
 </tnodes>
 </leo_file>
